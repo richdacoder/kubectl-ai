@@ -5,7 +5,7 @@ bin/
 
 # Log files
 *.log
-trace.log
+trace.log 
 prompt.log
 app.log
 
